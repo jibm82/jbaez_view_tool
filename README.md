@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+JBaezViewTool::Renderer.copyright('Jorge Báez', 'All rights reserved')
+```
 
 ## Development
 
