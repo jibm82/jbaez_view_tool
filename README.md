@@ -21,7 +21,7 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
-JBaezViewTool::Renderer.copyright('Jorge Báez', 'All rights reserved')
+JbaezViewTool::Renderer.copyright('Jorge Báez', 'All rights reserved')
 ```
 
 ## Development
